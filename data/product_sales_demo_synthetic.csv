@@ -1,0 +1,271 @@
+date,product_model,category,list_price_usd,discount_pct,units_sold,revenue_usd,data_type
+2023-01-01,Air Force 1 (demo),Footwear,115,0,369,42435.0,synthetic_demo_not_nike_actual
+2023-02-01,Air Force 1 (demo),Footwear,115,0,348,40020.0,synthetic_demo_not_nike_actual
+2023-03-01,Air Force 1 (demo),Footwear,115,15,424,41446.0,synthetic_demo_not_nike_actual
+2023-04-01,Air Force 1 (demo),Footwear,115,15,402,39295.5,synthetic_demo_not_nike_actual
+2023-05-01,Air Force 1 (demo),Footwear,115,0,426,48990.0,synthetic_demo_not_nike_actual
+2023-06-01,Air Force 1 (demo),Footwear,115,15,392,38318.0,synthetic_demo_not_nike_actual
+2023-07-01,Air Force 1 (demo),Footwear,115,0,334,38410.0,synthetic_demo_not_nike_actual
+2023-08-01,Air Force 1 (demo),Footwear,115,5,391,42716.75,synthetic_demo_not_nike_actual
+2023-09-01,Air Force 1 (demo),Footwear,115,15,285,27858.75,synthetic_demo_not_nike_actual
+2023-10-01,Air Force 1 (demo),Footwear,115,0,343,39445.0,synthetic_demo_not_nike_actual
+2023-11-01,Air Force 1 (demo),Footwear,115,5,413,45120.25,synthetic_demo_not_nike_actual
+2023-12-01,Air Force 1 (demo),Footwear,115,15,424,41446.0,synthetic_demo_not_nike_actual
+2024-01-01,Air Force 1 (demo),Footwear,115,5,423,46212.75,synthetic_demo_not_nike_actual
+2024-02-01,Air Force 1 (demo),Footwear,115,0,385,44275.0,synthetic_demo_not_nike_actual
+2024-03-01,Air Force 1 (demo),Footwear,115,10,418,43263.0,synthetic_demo_not_nike_actual
+2024-04-01,Air Force 1 (demo),Footwear,115,0,403,46345.0,synthetic_demo_not_nike_actual
+2024-05-01,Air Force 1 (demo),Footwear,115,0,378,43470.0,synthetic_demo_not_nike_actual
+2024-06-01,Air Force 1 (demo),Footwear,115,10,323,33430.5,synthetic_demo_not_nike_actual
+2024-07-01,Air Force 1 (demo),Footwear,115,0,340,39100.0,synthetic_demo_not_nike_actual
+2024-08-01,Air Force 1 (demo),Footwear,115,0,316,36340.0,synthetic_demo_not_nike_actual
+2024-09-01,Air Force 1 (demo),Footwear,115,0,320,36800.0,synthetic_demo_not_nike_actual
+2024-10-01,Air Force 1 (demo),Footwear,115,0,403,46345.0,synthetic_demo_not_nike_actual
+2024-11-01,Air Force 1 (demo),Footwear,115,0,449,51635.0,synthetic_demo_not_nike_actual
+2024-12-01,Air Force 1 (demo),Footwear,115,5,464,50692.0,synthetic_demo_not_nike_actual
+2025-01-01,Air Force 1 (demo),Footwear,115,15,433,42325.75,synthetic_demo_not_nike_actual
+2025-02-01,Air Force 1 (demo),Footwear,115,0,422,48530.0,synthetic_demo_not_nike_actual
+2025-03-01,Air Force 1 (demo),Footwear,115,5,457,49927.25,synthetic_demo_not_nike_actual
+2025-04-01,Air Force 1 (demo),Footwear,115,0,436,50140.0,synthetic_demo_not_nike_actual
+2025-05-01,Air Force 1 (demo),Footwear,115,0,412,47380.0,synthetic_demo_not_nike_actual
+2025-06-01,Air Force 1 (demo),Footwear,115,15,383,37438.25,synthetic_demo_not_nike_actual
+2025-07-01,Air Force 1 (demo),Footwear,115,5,343,37472.75,synthetic_demo_not_nike_actual
+2025-08-01,Air Force 1 (demo),Footwear,115,10,335,34672.5,synthetic_demo_not_nike_actual
+2025-09-01,Air Force 1 (demo),Footwear,115,0,357,41055.0,synthetic_demo_not_nike_actual
+2025-10-01,Air Force 1 (demo),Footwear,115,10,399,41296.5,synthetic_demo_not_nike_actual
+2025-11-01,Air Force 1 (demo),Footwear,115,0,438,50370.0,synthetic_demo_not_nike_actual
+2025-12-01,Air Force 1 (demo),Footwear,115,0,451,51865.0,synthetic_demo_not_nike_actual
+2026-01-01,Air Force 1 (demo),Footwear,115,0,425,48875.0,synthetic_demo_not_nike_actual
+2026-02-01,Air Force 1 (demo),Footwear,115,5,489,53423.25,synthetic_demo_not_nike_actual
+2026-03-01,Air Force 1 (demo),Footwear,115,0,473,54395.0,synthetic_demo_not_nike_actual
+2026-04-01,Air Force 1 (demo),Footwear,115,5,484,52877.0,synthetic_demo_not_nike_actual
+2026-05-01,Air Force 1 (demo),Footwear,115,0,429,49335.0,synthetic_demo_not_nike_actual
+2026-06-01,Air Force 1 (demo),Footwear,115,15,439,42912.25,synthetic_demo_not_nike_actual
+2026-07-01,Air Force 1 (demo),Footwear,115,0,371,42665.0,synthetic_demo_not_nike_actual
+2026-08-01,Air Force 1 (demo),Footwear,115,0,367,42205.0,synthetic_demo_not_nike_actual
+2026-09-01,Air Force 1 (demo),Footwear,115,15,428,41837.0,synthetic_demo_not_nike_actual
+2023-01-01,Dunk Low (demo),Footwear,110,0,338,37180.0,synthetic_demo_not_nike_actual
+2023-02-01,Dunk Low (demo),Footwear,110,0,303,33330.0,synthetic_demo_not_nike_actual
+2023-03-01,Dunk Low (demo),Footwear,110,0,360,39600.0,synthetic_demo_not_nike_actual
+2023-04-01,Dunk Low (demo),Footwear,110,5,356,37202.0,synthetic_demo_not_nike_actual
+2023-05-01,Dunk Low (demo),Footwear,110,5,334,34903.0,synthetic_demo_not_nike_actual
+2023-06-01,Dunk Low (demo),Footwear,110,5,274,28633.0,synthetic_demo_not_nike_actual
+2023-07-01,Dunk Low (demo),Footwear,110,5,277,28946.5,synthetic_demo_not_nike_actual
+2023-08-01,Dunk Low (demo),Footwear,110,0,280,30800.0,synthetic_demo_not_nike_actual
+2023-09-01,Dunk Low (demo),Footwear,110,0,248,27280.0,synthetic_demo_not_nike_actual
+2023-10-01,Dunk Low (demo),Footwear,110,0,292,32120.0,synthetic_demo_not_nike_actual
+2023-11-01,Dunk Low (demo),Footwear,110,10,347,34353.0,synthetic_demo_not_nike_actual
+2023-12-01,Dunk Low (demo),Footwear,110,0,330,36300.0,synthetic_demo_not_nike_actual
+2024-01-01,Dunk Low (demo),Footwear,110,10,311,30789.0,synthetic_demo_not_nike_actual
+2024-02-01,Dunk Low (demo),Footwear,110,5,359,37515.5,synthetic_demo_not_nike_actual
+2024-03-01,Dunk Low (demo),Footwear,110,15,333,31135.5,synthetic_demo_not_nike_actual
+2024-04-01,Dunk Low (demo),Footwear,110,5,308,32186.0,synthetic_demo_not_nike_actual
+2024-05-01,Dunk Low (demo),Footwear,110,5,321,33544.5,synthetic_demo_not_nike_actual
+2024-06-01,Dunk Low (demo),Footwear,110,15,281,26273.5,synthetic_demo_not_nike_actual
+2024-07-01,Dunk Low (demo),Footwear,110,0,252,27720.0,synthetic_demo_not_nike_actual
+2024-08-01,Dunk Low (demo),Footwear,110,5,255,26647.5,synthetic_demo_not_nike_actual
+2024-09-01,Dunk Low (demo),Footwear,110,0,256,28160.0,synthetic_demo_not_nike_actual
+2024-10-01,Dunk Low (demo),Footwear,110,0,265,29150.0,synthetic_demo_not_nike_actual
+2024-11-01,Dunk Low (demo),Footwear,110,10,317,31383.0,synthetic_demo_not_nike_actual
+2024-12-01,Dunk Low (demo),Footwear,110,5,301,31454.5,synthetic_demo_not_nike_actual
+2025-01-01,Dunk Low (demo),Footwear,110,0,275,30250.0,synthetic_demo_not_nike_actual
+2025-02-01,Dunk Low (demo),Footwear,110,0,315,34650.0,synthetic_demo_not_nike_actual
+2025-03-01,Dunk Low (demo),Footwear,110,0,321,35310.0,synthetic_demo_not_nike_actual
+2025-04-01,Dunk Low (demo),Footwear,110,15,309,28891.5,synthetic_demo_not_nike_actual
+2025-05-01,Dunk Low (demo),Footwear,110,5,301,31454.5,synthetic_demo_not_nike_actual
+2025-06-01,Dunk Low (demo),Footwear,110,0,326,35860.0,synthetic_demo_not_nike_actual
+2025-07-01,Dunk Low (demo),Footwear,110,0,275,30250.0,synthetic_demo_not_nike_actual
+2025-08-01,Dunk Low (demo),Footwear,110,10,254,25146.0,synthetic_demo_not_nike_actual
+2025-09-01,Dunk Low (demo),Footwear,110,0,233,25630.0,synthetic_demo_not_nike_actual
+2025-10-01,Dunk Low (demo),Footwear,110,10,222,21978.0,synthetic_demo_not_nike_actual
+2025-11-01,Dunk Low (demo),Footwear,110,15,272,25432.0,synthetic_demo_not_nike_actual
+2025-12-01,Dunk Low (demo),Footwear,110,5,291,30409.5,synthetic_demo_not_nike_actual
+2026-01-01,Dunk Low (demo),Footwear,110,5,319,33335.5,synthetic_demo_not_nike_actual
+2026-02-01,Dunk Low (demo),Footwear,110,15,283,26460.5,synthetic_demo_not_nike_actual
+2026-03-01,Dunk Low (demo),Footwear,110,15,281,26273.5,synthetic_demo_not_nike_actual
+2026-04-01,Dunk Low (demo),Footwear,110,0,305,33550.0,synthetic_demo_not_nike_actual
+2026-05-01,Dunk Low (demo),Footwear,110,10,263,26037.0,synthetic_demo_not_nike_actual
+2026-06-01,Dunk Low (demo),Footwear,110,0,271,29810.0,synthetic_demo_not_nike_actual
+2026-07-01,Dunk Low (demo),Footwear,110,0,258,28380.0,synthetic_demo_not_nike_actual
+2026-08-01,Dunk Low (demo),Footwear,110,15,279,26086.5,synthetic_demo_not_nike_actual
+2026-09-01,Dunk Low (demo),Footwear,110,10,218,21582.0,synthetic_demo_not_nike_actual
+2023-01-01,Pegasus (demo),Footwear,140,15,259,30821.0,synthetic_demo_not_nike_actual
+2023-02-01,Pegasus (demo),Footwear,140,15,273,32487.0,synthetic_demo_not_nike_actual
+2023-03-01,Pegasus (demo),Footwear,140,0,239,33460.0,synthetic_demo_not_nike_actual
+2023-04-01,Pegasus (demo),Footwear,140,0,244,34160.0,synthetic_demo_not_nike_actual
+2023-05-01,Pegasus (demo),Footwear,140,5,252,33516.0,synthetic_demo_not_nike_actual
+2023-06-01,Pegasus (demo),Footwear,140,10,253,31878.0,synthetic_demo_not_nike_actual
+2023-07-01,Pegasus (demo),Footwear,140,0,219,30660.0,synthetic_demo_not_nike_actual
+2023-08-01,Pegasus (demo),Footwear,140,5,220,29260.0,synthetic_demo_not_nike_actual
+2023-09-01,Pegasus (demo),Footwear,140,0,222,31080.0,synthetic_demo_not_nike_actual
+2023-10-01,Pegasus (demo),Footwear,140,0,223,31220.0,synthetic_demo_not_nike_actual
+2023-11-01,Pegasus (demo),Footwear,140,0,283,39620.0,synthetic_demo_not_nike_actual
+2023-12-01,Pegasus (demo),Footwear,140,0,306,42840.0,synthetic_demo_not_nike_actual
+2024-01-01,Pegasus (demo),Footwear,140,15,283,33677.0,synthetic_demo_not_nike_actual
+2024-02-01,Pegasus (demo),Footwear,140,10,311,39186.0,synthetic_demo_not_nike_actual
+2024-03-01,Pegasus (demo),Footwear,140,0,303,42420.0,synthetic_demo_not_nike_actual
+2024-04-01,Pegasus (demo),Footwear,140,0,288,40320.0,synthetic_demo_not_nike_actual
+2024-05-01,Pegasus (demo),Footwear,140,10,295,37170.0,synthetic_demo_not_nike_actual
+2024-06-01,Pegasus (demo),Footwear,140,0,320,44800.0,synthetic_demo_not_nike_actual
+2024-07-01,Pegasus (demo),Footwear,140,15,275,32725.0,synthetic_demo_not_nike_actual
+2024-08-01,Pegasus (demo),Footwear,140,10,247,31122.0,synthetic_demo_not_nike_actual
+2024-09-01,Pegasus (demo),Footwear,140,0,212,29680.0,synthetic_demo_not_nike_actual
+2024-10-01,Pegasus (demo),Footwear,140,0,238,33320.0,synthetic_demo_not_nike_actual
+2024-11-01,Pegasus (demo),Footwear,140,10,317,39942.0,synthetic_demo_not_nike_actual
+2024-12-01,Pegasus (demo),Footwear,140,5,285,37905.0,synthetic_demo_not_nike_actual
+2025-01-01,Pegasus (demo),Footwear,140,5,306,40698.0,synthetic_demo_not_nike_actual
+2025-02-01,Pegasus (demo),Footwear,140,5,332,44156.0,synthetic_demo_not_nike_actual
+2025-03-01,Pegasus (demo),Footwear,140,10,320,40320.0,synthetic_demo_not_nike_actual
+2025-04-01,Pegasus (demo),Footwear,140,5,345,45885.0,synthetic_demo_not_nike_actual
+2025-05-01,Pegasus (demo),Footwear,140,10,320,40320.0,synthetic_demo_not_nike_actual
+2025-06-01,Pegasus (demo),Footwear,140,0,312,43680.0,synthetic_demo_not_nike_actual
+2025-07-01,Pegasus (demo),Footwear,140,0,323,45220.0,synthetic_demo_not_nike_actual
+2025-08-01,Pegasus (demo),Footwear,140,15,268,31892.0,synthetic_demo_not_nike_actual
+2025-09-01,Pegasus (demo),Footwear,140,10,280,35280.0,synthetic_demo_not_nike_actual
+2025-10-01,Pegasus (demo),Footwear,140,15,246,29274.0,synthetic_demo_not_nike_actual
+2025-11-01,Pegasus (demo),Footwear,140,15,326,38794.0,synthetic_demo_not_nike_actual
+2025-12-01,Pegasus (demo),Footwear,140,15,364,43316.0,synthetic_demo_not_nike_actual
+2026-01-01,Pegasus (demo),Footwear,140,0,325,45500.0,synthetic_demo_not_nike_actual
+2026-02-01,Pegasus (demo),Footwear,140,15,344,40936.0,synthetic_demo_not_nike_actual
+2026-03-01,Pegasus (demo),Footwear,140,10,380,47880.0,synthetic_demo_not_nike_actual
+2026-04-01,Pegasus (demo),Footwear,140,0,326,45640.0,synthetic_demo_not_nike_actual
+2026-05-01,Pegasus (demo),Footwear,140,0,326,45640.0,synthetic_demo_not_nike_actual
+2026-06-01,Pegasus (demo),Footwear,140,0,312,43680.0,synthetic_demo_not_nike_actual
+2026-07-01,Pegasus (demo),Footwear,140,0,292,40880.0,synthetic_demo_not_nike_actual
+2026-08-01,Pegasus (demo),Footwear,140,0,297,41580.0,synthetic_demo_not_nike_actual
+2026-09-01,Pegasus (demo),Footwear,140,10,302,38052.0,synthetic_demo_not_nike_actual
+2023-01-01,Air Max (demo),Footwear,135,0,230,31050.0,synthetic_demo_not_nike_actual
+2023-02-01,Air Max (demo),Footwear,135,5,252,32319.0,synthetic_demo_not_nike_actual
+2023-03-01,Air Max (demo),Footwear,135,0,246,33210.0,synthetic_demo_not_nike_actual
+2023-04-01,Air Max (demo),Footwear,135,5,246,31549.5,synthetic_demo_not_nike_actual
+2023-05-01,Air Max (demo),Footwear,135,0,264,35640.0,synthetic_demo_not_nike_actual
+2023-06-01,Air Max (demo),Footwear,135,10,244,29646.0,synthetic_demo_not_nike_actual
+2023-07-01,Air Max (demo),Footwear,135,0,192,25920.0,synthetic_demo_not_nike_actual
+2023-08-01,Air Max (demo),Footwear,135,15,219,25130.25,synthetic_demo_not_nike_actual
+2023-09-01,Air Max (demo),Footwear,135,0,185,24975.0,synthetic_demo_not_nike_actual
+2023-10-01,Air Max (demo),Footwear,135,15,180,20655.0,synthetic_demo_not_nike_actual
+2023-11-01,Air Max (demo),Footwear,135,10,253,30739.5,synthetic_demo_not_nike_actual
+2023-12-01,Air Max (demo),Footwear,135,10,255,30982.5,synthetic_demo_not_nike_actual
+2024-01-01,Air Max (demo),Footwear,135,0,228,30780.0,synthetic_demo_not_nike_actual
+2024-02-01,Air Max (demo),Footwear,135,0,225,30375.0,synthetic_demo_not_nike_actual
+2024-03-01,Air Max (demo),Footwear,135,0,260,35100.0,synthetic_demo_not_nike_actual
+2024-04-01,Air Max (demo),Footwear,135,10,282,34263.0,synthetic_demo_not_nike_actual
+2024-05-01,Air Max (demo),Footwear,135,0,215,29025.0,synthetic_demo_not_nike_actual
+2024-06-01,Air Max (demo),Footwear,135,0,197,26595.0,synthetic_demo_not_nike_actual
+2024-07-01,Air Max (demo),Footwear,135,5,202,25906.5,synthetic_demo_not_nike_actual
+2024-08-01,Air Max (demo),Footwear,135,15,205,23523.75,synthetic_demo_not_nike_actual
+2024-09-01,Air Max (demo),Footwear,135,0,160,21600.0,synthetic_demo_not_nike_actual
+2024-10-01,Air Max (demo),Footwear,135,0,198,26730.0,synthetic_demo_not_nike_actual
+2024-11-01,Air Max (demo),Footwear,135,0,221,29835.0,synthetic_demo_not_nike_actual
+2024-12-01,Air Max (demo),Footwear,135,0,240,32400.0,synthetic_demo_not_nike_actual
+2025-01-01,Air Max (demo),Footwear,135,10,214,26001.0,synthetic_demo_not_nike_actual
+2025-02-01,Air Max (demo),Footwear,135,0,201,27135.0,synthetic_demo_not_nike_actual
+2025-03-01,Air Max (demo),Footwear,135,15,226,25933.5,synthetic_demo_not_nike_actual
+2025-04-01,Air Max (demo),Footwear,135,15,243,27884.25,synthetic_demo_not_nike_actual
+2025-05-01,Air Max (demo),Footwear,135,0,208,28080.0,synthetic_demo_not_nike_actual
+2025-06-01,Air Max (demo),Footwear,135,0,195,26325.0,synthetic_demo_not_nike_actual
+2025-07-01,Air Max (demo),Footwear,135,10,187,22720.5,synthetic_demo_not_nike_actual
+2025-08-01,Air Max (demo),Footwear,135,10,200,24300.0,synthetic_demo_not_nike_actual
+2025-09-01,Air Max (demo),Footwear,135,0,156,21060.0,synthetic_demo_not_nike_actual
+2025-10-01,Air Max (demo),Footwear,135,15,187,21458.25,synthetic_demo_not_nike_actual
+2025-11-01,Air Max (demo),Footwear,135,0,220,29700.0,synthetic_demo_not_nike_actual
+2025-12-01,Air Max (demo),Footwear,135,0,214,28890.0,synthetic_demo_not_nike_actual
+2026-01-01,Air Max (demo),Footwear,135,0,216,29160.0,synthetic_demo_not_nike_actual
+2026-02-01,Air Max (demo),Footwear,135,0,189,25515.0,synthetic_demo_not_nike_actual
+2026-03-01,Air Max (demo),Footwear,135,15,235,26966.25,synthetic_demo_not_nike_actual
+2026-04-01,Air Max (demo),Footwear,135,0,221,29835.0,synthetic_demo_not_nike_actual
+2026-05-01,Air Max (demo),Footwear,135,5,220,28215.0,synthetic_demo_not_nike_actual
+2026-06-01,Air Max (demo),Footwear,135,10,208,25272.0,synthetic_demo_not_nike_actual
+2026-07-01,Air Max (demo),Footwear,135,0,201,27135.0,synthetic_demo_not_nike_actual
+2026-08-01,Air Max (demo),Footwear,135,0,170,22950.0,synthetic_demo_not_nike_actual
+2026-09-01,Air Max (demo),Footwear,135,0,150,20250.0,synthetic_demo_not_nike_actual
+2023-01-01,Jordan 1 (demo),Footwear,180,15,347,53091.0,synthetic_demo_not_nike_actual
+2023-02-01,Jordan 1 (demo),Footwear,180,10,352,57024.0,synthetic_demo_not_nike_actual
+2023-03-01,Jordan 1 (demo),Footwear,180,0,375,67500.0,synthetic_demo_not_nike_actual
+2023-04-01,Jordan 1 (demo),Footwear,180,0,354,63720.0,synthetic_demo_not_nike_actual
+2023-05-01,Jordan 1 (demo),Footwear,180,10,367,59454.0,synthetic_demo_not_nike_actual
+2023-06-01,Jordan 1 (demo),Footwear,180,0,326,58680.0,synthetic_demo_not_nike_actual
+2023-07-01,Jordan 1 (demo),Footwear,180,0,294,52920.0,synthetic_demo_not_nike_actual
+2023-08-01,Jordan 1 (demo),Footwear,180,0,261,46980.0,synthetic_demo_not_nike_actual
+2023-09-01,Jordan 1 (demo),Footwear,180,0,321,57780.0,synthetic_demo_not_nike_actual
+2023-10-01,Jordan 1 (demo),Footwear,180,0,268,48240.0,synthetic_demo_not_nike_actual
+2023-11-01,Jordan 1 (demo),Footwear,180,0,328,59040.0,synthetic_demo_not_nike_actual
+2023-12-01,Jordan 1 (demo),Footwear,180,5,358,61218.0,synthetic_demo_not_nike_actual
+2024-01-01,Jordan 1 (demo),Footwear,180,10,407,65934.0,synthetic_demo_not_nike_actual
+2024-02-01,Jordan 1 (demo),Footwear,180,5,363,62073.0,synthetic_demo_not_nike_actual
+2024-03-01,Jordan 1 (demo),Footwear,180,0,416,74880.0,synthetic_demo_not_nike_actual
+2024-04-01,Jordan 1 (demo),Footwear,180,10,353,57186.0,synthetic_demo_not_nike_actual
+2024-05-01,Jordan 1 (demo),Footwear,180,5,383,65493.0,synthetic_demo_not_nike_actual
+2024-06-01,Jordan 1 (demo),Footwear,180,5,335,57285.0,synthetic_demo_not_nike_actual
+2024-07-01,Jordan 1 (demo),Footwear,180,0,276,49680.0,synthetic_demo_not_nike_actual
+2024-08-01,Jordan 1 (demo),Footwear,180,0,305,54900.0,synthetic_demo_not_nike_actual
+2024-09-01,Jordan 1 (demo),Footwear,180,5,304,51984.0,synthetic_demo_not_nike_actual
+2024-10-01,Jordan 1 (demo),Footwear,180,5,281,48051.0,synthetic_demo_not_nike_actual
+2024-11-01,Jordan 1 (demo),Footwear,180,0,361,64980.0,synthetic_demo_not_nike_actual
+2024-12-01,Jordan 1 (demo),Footwear,180,0,404,72720.0,synthetic_demo_not_nike_actual
+2025-01-01,Jordan 1 (demo),Footwear,180,5,380,64980.0,synthetic_demo_not_nike_actual
+2025-02-01,Jordan 1 (demo),Footwear,180,0,382,68760.0,synthetic_demo_not_nike_actual
+2025-03-01,Jordan 1 (demo),Footwear,180,0,419,75420.0,synthetic_demo_not_nike_actual
+2025-04-01,Jordan 1 (demo),Footwear,180,10,350,56700.0,synthetic_demo_not_nike_actual
+2025-05-01,Jordan 1 (demo),Footwear,180,15,389,59517.0,synthetic_demo_not_nike_actual
+2025-06-01,Jordan 1 (demo),Footwear,180,5,317,54207.0,synthetic_demo_not_nike_actual
+2025-07-01,Jordan 1 (demo),Footwear,180,0,334,60120.0,synthetic_demo_not_nike_actual
+2025-08-01,Jordan 1 (demo),Footwear,180,0,318,57240.0,synthetic_demo_not_nike_actual
+2025-09-01,Jordan 1 (demo),Footwear,180,5,302,51642.0,synthetic_demo_not_nike_actual
+2025-10-01,Jordan 1 (demo),Footwear,180,0,296,53280.0,synthetic_demo_not_nike_actual
+2025-11-01,Jordan 1 (demo),Footwear,180,10,376,60912.0,synthetic_demo_not_nike_actual
+2025-12-01,Jordan 1 (demo),Footwear,180,0,417,75060.0,synthetic_demo_not_nike_actual
+2026-01-01,Jordan 1 (demo),Footwear,180,10,404,65448.0,synthetic_demo_not_nike_actual
+2026-02-01,Jordan 1 (demo),Footwear,180,0,421,75780.0,synthetic_demo_not_nike_actual
+2026-03-01,Jordan 1 (demo),Footwear,180,15,413,63189.0,synthetic_demo_not_nike_actual
+2026-04-01,Jordan 1 (demo),Footwear,180,10,369,59778.0,synthetic_demo_not_nike_actual
+2026-05-01,Jordan 1 (demo),Footwear,180,0,386,69480.0,synthetic_demo_not_nike_actual
+2026-06-01,Jordan 1 (demo),Footwear,180,0,348,62640.0,synthetic_demo_not_nike_actual
+2026-07-01,Jordan 1 (demo),Footwear,180,0,334,60120.0,synthetic_demo_not_nike_actual
+2026-08-01,Jordan 1 (demo),Footwear,180,0,306,55080.0,synthetic_demo_not_nike_actual
+2026-09-01,Jordan 1 (demo),Footwear,180,5,316,54036.0,synthetic_demo_not_nike_actual
+2023-01-01,Vomero (demo),Footwear,160,5,128,19456.0,synthetic_demo_not_nike_actual
+2023-02-01,Vomero (demo),Footwear,160,5,181,27512.0,synthetic_demo_not_nike_actual
+2023-03-01,Vomero (demo),Footwear,160,0,167,26720.0,synthetic_demo_not_nike_actual
+2023-04-01,Vomero (demo),Footwear,160,5,171,25992.0,synthetic_demo_not_nike_actual
+2023-05-01,Vomero (demo),Footwear,160,0,172,27520.0,synthetic_demo_not_nike_actual
+2023-06-01,Vomero (demo),Footwear,160,0,143,22880.0,synthetic_demo_not_nike_actual
+2023-07-01,Vomero (demo),Footwear,160,0,174,27840.0,synthetic_demo_not_nike_actual
+2023-08-01,Vomero (demo),Footwear,160,15,116,15776.0,synthetic_demo_not_nike_actual
+2023-09-01,Vomero (demo),Footwear,160,0,158,25280.0,synthetic_demo_not_nike_actual
+2023-10-01,Vomero (demo),Footwear,160,0,164,26240.0,synthetic_demo_not_nike_actual
+2023-11-01,Vomero (demo),Footwear,160,0,199,31840.0,synthetic_demo_not_nike_actual
+2023-12-01,Vomero (demo),Footwear,160,15,197,26792.0,synthetic_demo_not_nike_actual
+2024-01-01,Vomero (demo),Footwear,160,0,177,28320.0,synthetic_demo_not_nike_actual
+2024-02-01,Vomero (demo),Footwear,160,10,200,28800.0,synthetic_demo_not_nike_actual
+2024-03-01,Vomero (demo),Footwear,160,10,204,29376.0,synthetic_demo_not_nike_actual
+2024-04-01,Vomero (demo),Footwear,160,15,209,28424.0,synthetic_demo_not_nike_actual
+2024-05-01,Vomero (demo),Footwear,160,0,211,33760.0,synthetic_demo_not_nike_actual
+2024-06-01,Vomero (demo),Footwear,160,0,207,33120.0,synthetic_demo_not_nike_actual
+2024-07-01,Vomero (demo),Footwear,160,15,178,24208.0,synthetic_demo_not_nike_actual
+2024-08-01,Vomero (demo),Footwear,160,5,170,25840.0,synthetic_demo_not_nike_actual
+2024-09-01,Vomero (demo),Footwear,160,0,180,28800.0,synthetic_demo_not_nike_actual
+2024-10-01,Vomero (demo),Footwear,160,10,180,25920.0,synthetic_demo_not_nike_actual
+2024-11-01,Vomero (demo),Footwear,160,5,212,32224.0,synthetic_demo_not_nike_actual
+2024-12-01,Vomero (demo),Footwear,160,0,238,38080.0,synthetic_demo_not_nike_actual
+2025-01-01,Vomero (demo),Footwear,160,0,223,35680.0,synthetic_demo_not_nike_actual
+2025-02-01,Vomero (demo),Footwear,160,5,254,38608.0,synthetic_demo_not_nike_actual
+2025-03-01,Vomero (demo),Footwear,160,0,261,41760.0,synthetic_demo_not_nike_actual
+2025-04-01,Vomero (demo),Footwear,160,0,244,39040.0,synthetic_demo_not_nike_actual
+2025-05-01,Vomero (demo),Footwear,160,0,241,38560.0,synthetic_demo_not_nike_actual
+2025-06-01,Vomero (demo),Footwear,160,0,253,40480.0,synthetic_demo_not_nike_actual
+2025-07-01,Vomero (demo),Footwear,160,0,204,32640.0,synthetic_demo_not_nike_actual
+2025-08-01,Vomero (demo),Footwear,160,5,210,31920.0,synthetic_demo_not_nike_actual
+2025-09-01,Vomero (demo),Footwear,160,5,196,29792.0,synthetic_demo_not_nike_actual
+2025-10-01,Vomero (demo),Footwear,160,0,198,31680.0,synthetic_demo_not_nike_actual
+2025-11-01,Vomero (demo),Footwear,160,0,251,40160.0,synthetic_demo_not_nike_actual
+2025-12-01,Vomero (demo),Footwear,160,0,292,46720.0,synthetic_demo_not_nike_actual
+2026-01-01,Vomero (demo),Footwear,160,0,251,40160.0,synthetic_demo_not_nike_actual
+2026-02-01,Vomero (demo),Footwear,160,5,263,39976.0,synthetic_demo_not_nike_actual
+2026-03-01,Vomero (demo),Footwear,160,5,285,43320.0,synthetic_demo_not_nike_actual
+2026-04-01,Vomero (demo),Footwear,160,0,284,45440.0,synthetic_demo_not_nike_actual
+2026-05-01,Vomero (demo),Footwear,160,0,274,43840.0,synthetic_demo_not_nike_actual
+2026-06-01,Vomero (demo),Footwear,160,15,255,34680.0,synthetic_demo_not_nike_actual
+2026-07-01,Vomero (demo),Footwear,160,0,250,40000.0,synthetic_demo_not_nike_actual
+2026-08-01,Vomero (demo),Footwear,160,0,240,38400.0,synthetic_demo_not_nike_actual
+2026-09-01,Vomero (demo),Footwear,160,0,232,37120.0,synthetic_demo_not_nike_actual
